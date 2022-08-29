@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Site URL](https://your-live-site-url.com)
+- Live Site URL: [Live Site URL](https://eby-coder.github.io/bookish-set/)
 
 ## My process
 
